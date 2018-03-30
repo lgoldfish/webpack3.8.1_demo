@@ -1,0 +1,32 @@
+/*! 天南海北，涛哥最美！！！！！ */
+*{
+    margin: 0;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+}
+ul {
+    padding: 0;
+    margin: 0;
+}
+ul li {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+html {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+body {  
+    overflow:scroll;  
+    width: 100%;
+    height: 100%;
+} 
+#compass img {
+    z-index: 10;
+    position: fixed;
+    width: 40px;
+    left: 10px;
+    top: 45px;
+}
